@@ -14,4 +14,4 @@ Proyecto Papel y Lápiz.
 Proyecto en colaboración con Colciencias.
 
 Ejecutantes: Pablo Alejandro Figueroa Forero, Diego Hernando Rodríguez, Daniel Wilches Maradey, 
-Julián Esteban Arcos Argoty, Agustín Conde Martin y Juan Manuel Moreno Beltrán.
+Julián Esteban Arcos Argoty, Agustín Conde Martin, Juan Manuel Moreno Beltrán y Rafael Antonio Ruiz Gutiérrez.
